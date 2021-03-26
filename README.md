@@ -87,7 +87,7 @@ make
    title={A Multi-level Network for Human Pose Estimation},
    author={Zhanpeng Shao, Peng Liu, Youfu Li, Jianyu Yang, and Xiaolong Zhou},
    booktitle={IEEE International Conference on Robotics and Automation},
-   pages={1--7},
+   pages={1-7},
    year={2021},
    organization={IEEE}
  }
