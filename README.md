@@ -1,4 +1,4 @@
-# MLPE(A Multi-level Network for Human Pose Estimation)
+# MLPE(A Multi-Level Network for Human Pose Estimation)
 
 Although multi-person 2D pose estimation has made great progress in recent years, the challenges on various scales and occlusions in complex scenes are still remained to be solved. in this paper, we propose a novel multi-level pose estimation network (MLPE) to address the challenges, while most existing single-stage networks are not able to accurately predict the keypoints of the human body at different scales. We first leverage a split attention module in the feature extraction stage to achieve cross-channel interaction for multi-level feature maps. A multi-level prediction network is then introduced to accommodate multi-level features to achieve a good trade-off between the global context information and spatial resolution. Finally, the transposed convolution is used to build a high-resolution fine-tuning network to accurately locate the key points. We have conducted extensive experiments on the challenging MS COCO dataset, which has proved the effectiveness of our proposed method.
 ## Evaluation results on COCO val2017 dataset
