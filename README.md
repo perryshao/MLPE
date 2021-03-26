@@ -84,7 +84,7 @@ make
  If you find this code useful, please cite our work with the following bibtex:
  ```
  @inproceedings{shao2021,
-   title={A Multi-level Network for Human Pose Estimation},
+   title={A Multi-Level Network for Human Pose Estimation},
    author={Zhanpeng Shao, Peng Liu, Youfu Li, Jianyu Yang, and Xiaolong Zhou},
    booktitle={IEEE International Conference on Robotics and Automation},
    pages={1-7},
